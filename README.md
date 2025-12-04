@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Computer Science student based in Colorado.
 <!--
 **APalmer23/APalmer23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
